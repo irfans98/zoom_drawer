@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
       style: DrawerStyle.Style1, //ubah gaya drawer style1 - style7
       borderRadius: 40,
       // showShadow: true,
-      // angle: -10,
+      angle: -1,
       mainScreen: getScreen(),
       menuScreen: Builder(
         builder: (context) {

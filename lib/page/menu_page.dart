@@ -29,8 +29,8 @@ class MenuPage extends StatelessWidget {
                       borderRadius: BorderRadius.circular(50),
                       child: Image.asset(
                         "assets/images/OP.jpeg",
-                        height: 100,
-                        width: 100,
+                        height: 80,
+                        width: 80,
                         fit: BoxFit.cover,
                       ),
                     ),
